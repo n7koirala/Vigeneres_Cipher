@@ -1,2 +1,3 @@
 # Vigeneres_Cipher
-Cryptography Class Assignment
+- This was the final project for the Cryptography class at Troy
+
