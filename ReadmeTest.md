@@ -20,7 +20,7 @@ Data for the HEProfiler is categorized using the machine architectures.
 - `avx2/SHE_tests/Linear`, `avx512/SHE_tests/Linear`, `HEAAN_GPU_avx2/SHE_tests/Linear`, `HEAAN_GPU_avx512/SHE_tests/Linear`: Contain data for linear transformation tests run using SHE presets
 - `avx2/SHE_tests/Polyeval`, `avx512/SHE_tests/Polyeval`, `HEAAN_GPU_avx2/SHE_tests/Polyeval`, `HEAAN_GPU_avx512/SHE_tests/Polyeval`: Contains data for polynomial evaluation tests run using SHE presets
 - `avx2/SHE_tests/Threads`, `avx512/SHE_tests/Threads `, `HEAAN_GPU_avx2/SHE_tests/Threads`, `HEAAN_GPU_avx512/SHE_tests/Threads`: Contains data for tests run using multiple threads using SHE presets
-- `avx2/SHE_tests/Cipher_Plain_depth`, `avx512/SHE_tests/Cipher_Plain_depth` : Contains data for ciphertext-plaintext operations for tests run using different depth levels for SHE (this test not run for HEAAN_GPU_avx2 and HEAAN_GPU_avx512) 
+- `avx2/SHE_tests/Cipher_Plain_depth`, `avx512/SHE_tests/Cipher_Plain_depth` : Contains data for ciphertext-plaintext operations for tests run using different depth levels for SHE (not run for HEAAN_GPU_avx2 and HEAAN_GPU_avx512) 
 
 ## Fully Homomorphic Encryption (FHE) tests
 
