@@ -13,7 +13,7 @@ Data for the HEProfiler is categorized using the machine architectures.
 
 ## Somewhat Homomorphic Encryption (SHE) tests
 
- `avx2/SHE_tests`, `avx512/SHE_tests`, `HEAAN_GPU_avx2/SHE_tests`, `HEAAN_GPU_avx512/SHE_tests` : Contain tests run with somewhat homomorphic encryption (SHE) presets 
+ `avx2/SHE_tests`, `avx512/SHE_tests`, `HEAAN_GPU_avx2/SHE_tests`, `HEAAN_GPU_avx512/SHE_tests` : Contain tests run with somewhat homomorphic encryption (SHE) presets for HEAAN, HELIB, PALISADE and SEAL
 
 - `avx2/SHE_tests/Depth`, `avx512/SHE_tests/Depth`, `HEAAN_GPU_avx2/SHE_tests/Depth`, `HEAAN_GPU_avx512/SHE_tests/Depth`: Contain data for tests run using different depth levels for SHE 
 - `avx2/SHE_tests/Dot`, `avx512/SHE_tests/Dot`, `HEAAN_GPU_avx2/SHE_tests/Dot`, `HEAAN_GPU_avx512/SHE_tests/Dot`: Contain data for dot product tests run using SHE presets
