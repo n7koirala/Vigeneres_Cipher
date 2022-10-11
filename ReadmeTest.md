@@ -8,8 +8,8 @@ Data for the HEProfiler is categorized using the machine architectures.
 4. `HEAAN_GPU_avx512`: Contains tests run on Advanced Vector Extensions SIMD instructions for x86 instruction set architecture using GPU for HEAAN only
 
 - Folders are named using the type of test data that they contain
-- report.csv file contains the actual data used for all the graphs
-- err.txt contains any errors thrown by HEProfiler while running the tests
+- `report.csv` contains the actual data used for all the graphs
+- `err.txt` contains any errors thrown by HEProfiler while running the tests
 
 ## Somewhat Homomorphic Encryption (SHE) tests
 
