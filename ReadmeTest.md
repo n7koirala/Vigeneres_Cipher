@@ -1,4 +1,4 @@
-# Guide on navigating the HEProfiler test data folders
+# Guide for navigating the HEProfiler test data folders
 
 Data for the HEProfiler is categorized using the machine architectures.
 
