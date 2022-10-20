@@ -14,7 +14,7 @@ Data for the HEProfiler is categorized using the machine architectures.
 
 - First column refers to the backend of test run (For instance, HEAANProfiler refers to tests run using HEAAN as a backend library)
 - Second column refers to the type of test ran (add refers to addition test, mult refers to multiplication test etc.)
-- Third column contains the numbers for tests on the second column. Runtimes are in nanoseconds and error is calculated using the formula discussed in the paper.
+- Third column contains the numbers for tests on the second column. Runtimes are in nanoseconds and error is calculated using the formula discussed in the paper
 - Fourth column refers to the standard deviation of the numbers in the third column 
 
 ## Somewhat Homomorphic Encryption (SHE) tests
